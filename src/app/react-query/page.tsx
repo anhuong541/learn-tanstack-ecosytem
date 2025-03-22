@@ -1,3 +1,9 @@
+import HooksDemo from "@/components/tanstack-query/ReactQueryUI";
+
 export default function ReactQueryPag() {
-  return <div>ReactQuery</div>;
+  return (
+    <div className="container">
+      <HooksDemo />
+    </div>
+  );
 }
