@@ -9,7 +9,7 @@ import InfiniteQueryComponent from "./InfiniteQuery";
 
 const ReactQueryHooks: React.FC = () => {
   const [selectedHook, setSelectedHook] = useState("useQuery");
-  // Commit Xàm loz
+  // Commit Xàm loz 2
   return (
     <div
       className={cn(
